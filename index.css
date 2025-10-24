@@ -1,0 +1,39 @@
+.web {
+  background-color: white;
+  font-size: 10px;
+}
+
+.your {
+  display: inline-block;
+  font-size: 70px;
+}
+
+.click {
+  font-size: 50px;
+}
+
+.footer {
+  font-size: 30px;
+}
+
+.in {
+  width: 22%;
+}
+
+.img {
+  width: 32%;
+  background-size: cover;
+}
+
+.w {
+  margin: 10px;
+  margin-bottom: 10px;
+}
+
+.d {
+  display: inline-block;
+}
+
+.size {
+  size: 100px;
+}
